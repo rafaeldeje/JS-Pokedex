@@ -1,7 +1,5 @@
 # Trilha JS Developer - Pokedex
 
-# JavaScriptDeveloper-DIO
-
 <h1>JavaScript Developer: Pokedex</h1>
 <p>Repositório de Referência do Módulo I da Trilha "JavaScript Developer</p>
 
